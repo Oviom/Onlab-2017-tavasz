@@ -1,0 +1,10 @@
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\bin\Debug\MatkoÖnLabProto.exe.config
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\obj\Debug\MatkoÖnLabProto.csprojResolveAssemblyReference.cache
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\obj\Debug\MatkoÖnLabProto.Properties.Resources.resources
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\obj\Debug\MatkoÖnLabProto.csproj.GenerateResource.Cache
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\bin\Debug\MatkoÖnLabProto.exe
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\bin\Debug\MatkoÖnLabProto.pdb
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\bin\Debug\SnappyPI.dll
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\obj\Debug\MatkoÖnLabProto.exe
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\obj\Debug\MatkoÖnLabProto.pdb
+D:\Projekt\MatkoÖnLabProto\MatkoÖnLabProto\bin\Debug\LZ4man.dll
